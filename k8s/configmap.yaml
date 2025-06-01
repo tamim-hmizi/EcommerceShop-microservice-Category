@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: category-config
 data:
-  MONGO_URI: mongodb://mongo:27017/categorydb
+  MONGO_URI: mongodb://mongo:27017/ecommerceshop
